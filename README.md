@@ -21,11 +21,5 @@ A basic calculator application built with HTML, CSS, and JavaScript.
 - **CSS** (Styling)  
 - **JavaScript** (Logic)  
 
-## 📜 License  
-This project is licensed under the **MIT License**.  
-
-## ✉️ Contact  
-📧 Your Email  
-🔗 Your GitHub Profile  
 
 Feel free to contribute or report issues! 🛠️
